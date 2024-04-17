@@ -1,0 +1,467 @@
+.block_ {
+  display: block;
+  font-family: "Futura Display BQ", sans-serif;
+  font-size: 2em;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.block_1 {
+  display: block;
+  font-family: "Futura Display BQ", sans-serif;
+  font-size: 2em;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 0;
+  margin: 20pt 0;
+}
+.block_2 {
+  display: block;
+  font-family: serif;
+  font-size: 0.75em;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.block_3 {
+  display: block;
+  font-family: "Futura Display BQ", sans-serif;
+  font-size: 2em;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 20pt 0;
+}
+.block_4 {
+  display: block;
+  font-family: "Alegreya SC", sans-serif;
+  font-size: 1.29167em;
+  line-height: 1.2;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.block_5 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 0.83333em;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+.block_6 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+.block_7 {
+  display: block;
+  font-family: serif;
+  font-size: 0.75em;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+.block_8 {
+  display: block;
+  font-family: "Cousine", sans-serif;
+  line-height: 1.2;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+.block_9 {
+  display: block;
+  font-family: serif;
+  line-height: 1.2;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+.block_10 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 0.83333em;
+  font-style: italic;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+.block_11 {
+  display: block;
+  font-family: "Alegreya SC", sans-serif;
+  line-height: 1.2;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+.block_12 {
+  display: block;
+  font-family: "Alegreya SC", sans-serif;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 35.5pt;
+  padding: 0;
+  margin: 0;
+}
+.block_13 {
+  display: block;
+  font-family: "Alegreya SC", sans-serif;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_14 {
+  display: block;
+  font-family: serif;
+  font-size: 0.75em;
+  text-align: left;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_15 {
+  display: block;
+  font-size: 1.29167em;
+  font-weight: bold;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_16 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_17 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 35.5pt;
+  padding: 0;
+  margin: 0;
+}
+.block_18 {
+  display: block;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0 0 0 36pt;
+}
+.block_19 {
+  display: block;
+  font-family: serif;
+  font-size: 0.75em;
+  text-align: justify;
+  text-indent: 35.5pt;
+  padding: 0;
+  margin: 0;
+}
+.block_20 {
+  display: block;
+  line-height: 1.2;
+  text-align: left;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_21 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_22 {
+  display: block;
+  font-style: italic;
+  line-height: 1.2;
+  text-align: justify;
+  text-indent: 35.5pt;
+  padding: 0;
+  margin: 0;
+}
+.block_23 {
+  display: block;
+  font-family: "Futura Display BQ", sans-serif;
+  font-size: 2em;
+  line-height: 1.2;
+  text-align: center;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_24 {
+  display: block;
+  font-family: serif;
+  font-size: 0.75em;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_25 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_26 {
+  display: block;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_27 {
+  display: block;
+  font-size: 0.83333em;
+  font-style: italic;
+  text-align: justify;
+  text-indent: 0;
+  padding: 0;
+  margin: 0;
+}
+.block_28 {
+  display: block;
+  font-size: 0.83333em;
+  font-style: italic;
+  text-align: justify;
+  text-indent: 35.5pt;
+  padding: 0;
+  margin: 0;
+}
+.block_29 {
+  display: block;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: 35.5pt;
+  padding: 0;
+  margin: 0;
+}
+.block_30 {
+  display: block;
+  font-family: serif;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: 35.5pt;
+  padding: 0;
+  margin: 0;
+}
+.block_31 {
+  display: block;
+  font-size: 0.83333em;
+  text-align: justify;
+  text-indent: 70.9pt;
+  padding: 0;
+  margin: 0;
+}
+.block_32 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 0.83333em;
+  line-height: 1.2;
+  text-align: justify;
+  padding: 0;
+  margin: 0;
+}
+.block_33 {
+  display: block;
+  font-family: "Arial", sans-serif;
+  font-size: 1.1em;
+  text-align: justify;
+  padding: 0;
+  margin: 0;
+}
+.block_34 {
+  font-size: 1.1em;
+  font-family: "TeXGyreAdventor", sans-serif;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: .2rem;
+  line-height: 5;
+  padding: 0;
+  margin: 0;
+}
+.block_35 {
+  display: block;
+  font-family: "TeXGyreAdventor", sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-indent: 13%;
+  line-height: 1.3;
+  letter-spacing: .16rem;
+  padding: 0;
+  margin: 0;
+}
+.block_36 {
+  display: block;
+  font-family: "ITC Avant Garde Std Md", sans-serif;
+  font-size: 1.1em;
+  text-indent: 21%;
+  line-height: 2;
+  letter-spacing: .1.8rem;
+  padding: 0;
+  margin: 0;
+}
+.calibre {
+  color: black;
+  display: block;
+  font-family: "DejaVu Serif Condensed", serif;
+  font-size: 1em;
+  padding-left: 0;
+  padding-right: 0;
+  margin: 0 5pt;
+}
+.calibre1 {
+  display: block;
+}
+.calibre2 {
+  display: block;
+  margin: 1em 0;
+}
+.calibre3 {
+  height: 76pt;
+  width: 258pt;
+}
+.calibre4 {
+  line-height: 1.2;
+  white-space: pre-wrap;
+}
+.calibre5 {
+  font-style: italic;
+  line-height: 1.2;
+}
+.calibre6 {
+  display: block;
+  float: left;
+  height: 37.9pt;
+  width: 35.1pt;
+}
+.calibre7 {
+  font-style: italic;
+}
+.text_ {
+  font-family: "Futura Display BQ", sans-serif;
+  font-size: 2.66667em;
+  line-height: 1.2;
+}
+.text_1 {
+  font-family: "Arial", sans-serif;
+  font-size: 1.11111em;
+}
+.text_2 {
+  font-family: "Alegreya SC", sans-serif;
+  font-size: 1em;
+}
+.text_3 {
+  font-family: "Alegreya SC", sans-serif;
+  line-height: 1.2;
+}
+.text_4 {
+  font-family: "DejaVu Serif Condensed", serif;
+  line-height: 1.2;
+}
+.text_5 {
+  font-family: "DejaVu Serif Condensed", serif;
+  font-style: italic;
+  line-height: 1.2;
+}
+.text_6 {
+  font-family: "Alegreya SC", sans-serif;
+  font-size: 1.33333em;
+}
+.text_7 {
+  font-family: "DejaVu Serif Condensed", serif;
+  font-size: 1.33333em;
+}
+.text_8 {
+  font-family: "DejaVu Serif Condensed", serif;
+}
+.text_9 {
+  font-family: "Arial", sans-serif;
+}
+.line-container {
+  display: flex;
+  align-items: center;
+}
+.line-container span {
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+  /* Adjust as needed if content is long */
+  border-bottom: 1px solid white;
+  /* Add the underline */
+}
+.line-container::after {
+  content: attr(data-content);
+  flex-grow: 1;
+  text-align: right;
+  color: transparent;
+}
+.address-line {
+  display: flex;
+  justify-content: space-between;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 100%;
+  /* Adjust as needed if content is long */
+  border-bottom: 1px solid white;
+  /* Add the underline */
+}
+.address-line span:nth-child(2) {
+  text-align: center;
+}
+.address-line span:nth-child(3) {
+  margin-right: 8%;
+  /* Adjust the margin as needed */
+}
+.footer-text {
+  position: fixed;
+  /* or position: absolute; */
+  bottom: 10px;
+  /* Adjust the distance from the bottom as needed */
+  left: 50%;
+  /* Align horizontally in the center */
+  transform: translatex(-50%);
+  /* Center horizontally */
+}
+.starswarm {
+  position: fixed;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Futura Display BQ", sans-serif;
+  font-size: 3em;
+  line-height: 2;
+}
+.aldiss {
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Futura Display BQ", sans-serif;
+  font-size: 1.8em;
+  line-height: 2;
+}
+
+.empty-square-list {
+    list-style-type: square; 
+}

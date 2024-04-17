@@ -1,0 +1,28 @@
+@font-face {
+	font-family: "Arial";
+	src: url(fonts/Arial.ttf)
+}
+
+@font-face {
+	font-family: "Arial";
+	font-weight: bold;
+	src: url(fonts/Arial-Bold.ttf)
+}
+
+@font-face {
+  src: url(fonts/FuturaDisplayBQ.otf);
+  font-family: "Futura Display BQ";
+  font-weight: 500;
+}
+@font-face {
+  src: url(fonts/Alegreya-SC.ttf);
+  font-family: "Alegreya SC";
+}
+
+@font-face {
+  src: url(fonts/ITC Avant Garde Gothic LT Bold.ttf);
+  font-family: "AvantGarde LT Medium";
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  }

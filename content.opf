@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Starswarm</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Aldiss, Brian">Brian Aldiss</dc:creator>
+    <dc:publisher>Signet</dc:publisher>
+    <dc:description>&lt;h1&gt;&lt;div style="font-size: 16px; text-align: center;"&gt;&lt;span style="font-size: 16px;"&gt;10,000 BRAVE &lt;/span&gt;&lt;/div&gt;&lt;div style="font-size: 16px; text-align: center;"&gt;&lt;span style="font-size: 16px;"&gt;NEW WORLDS&lt;/span&gt;&lt;/div&gt;&lt;div style="font-size: 16px; text-align: center;"&gt;&lt;span style="font-size: 16px;"&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;font size="3"&gt;&lt;span style="font-weight: normal;"&gt;One million years have passed since ancient man first launched his frail metal crafts into the great darkness named "outer space." Now, distant galactic clusters are home to the myriad descendants of the inhabitants of Old Earth. Now, each world, light years seperate from the others, forms part of an island universe called "Starswarm."&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style="text-align: center;"&gt;&lt;font size="3"&gt;&lt;span style="font-weight: normal;"&gt;Yet each island remains uneasily bound to all others, for the creatures that people Starswarm were once of the race called Human, and among these 10,000 brave new worlds, man's brutal, timeless struggle for conquest still goes on . . .&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/h1&gt;</dc:description>
+    <dc:date>1974-03-01T06:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.39.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">e987eb4e-2008-47cb-8baf-26f1acc7830d</dc:identifier>
+    <dc:subject>Science-Fiction</dc:subject>
+    <dc:subject>Classics</dc:subject>
+    <dc:subject>Adventure</dc:subject>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">273e6cc4-441d-4c5d-bb57-7e6f73c038cc</dc:identifier>
+    <meta name="calibre:timestamp" content="0101-01-01T00:00:00+00:00"/>
+    <meta name="calibre:title_sort" content="Starswarm"/>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:author_link_map" content="{&quot;Brian Aldiss&quot;: &quot;&quot;}"/>
+  </metadata>
+  <manifest>
+    <item href="titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="index_01_PREFACE.html" id="id112" media-type="application/xhtml+xml"/>
+    <item id="id5" href="index_02_FURTHER.html" media-type="application/xhtml+xml"/>
+    <item href="index_03_TITLE.html" id="id111" media-type="application/xhtml+xml"/>
+    <item href="index_04_COPY.html" id="id110" media-type="application/xhtml+xml"/>
+    <item href="index_06_INTRO1.html" id="id19" media-type="application/xhtml+xml"/>
+    <item href="index_07_INTRO2.html" id="id" media-type="application/xhtml+xml"/>
+    <item id="id2" href="index_05_TOC.html" media-type="application/xhtml+xml"/>
+    <item href="index_SECTOR_01_VERMILLION.html" id="id18" media-type="application/xhtml+xml"/>
+    <item href="index_SECTOR_02_GREY.html" id="id17" media-type="application/xhtml+xml"/>
+    <item href="index_SECTOR_03_VIOLET.html" id="id16" media-type="application/xhtml+xml"/>
+    <item href="index_SECTOR_04_DIAMOND.html" id="id15" media-type="application/xhtml+xml"/>
+    <item href="index_SECTOR_05_GREEN.html" id="id14" media-type="application/xhtml+xml"/>
+    <item href="index_SECTOR_06_YELLOW.html" id="id13" media-type="application/xhtml+xml"/>
+    <item href="index_SECTOR_07_AZURE.html" id="id12" media-type="application/xhtml+xml"/>
+    <item href="index_SECTOR_08_RIFT.html" id="id11" media-type="application/xhtml+xml"/>
+    <item id="id1" href="index_SIGNET_BOOKS.html" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="font_embed" href="fonts.css" media-type="text/css"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="cover.jpeg" id="cover" media-type="image/jpeg"/>
+    <item href="images/signet_info.png" id="id3" media-type="image/png"/>
+    <item href="images/signet_logo.png" id="id4" media-type="image/png"/>
+    <item href="fonts/Alegreya-SC.ttf" id="font1" media-type="application/x-font-truetype"/>
+    <item id="font3" href="fonts/Arial-Bold.ttf" media-type="application/x-font-truetype"/>
+    <item id="font2" href="fonts/Arial.ttf" media-type="application/x-font-truetype"/>
+    <item href="fonts/FuturaDisplayBQ.otf" id="font" media-type="application/vnd.ms-opentype"/>
+    <item id="id6" href="fonts/ITC%20Avant%20Garde%20Gothic%20LT%20Bold.ttf" media-type="application/x-font-truetype"/>
+    <item id="id7" href="images/dropped_image.png" media-type="image/png"/>
+    <item id="id8" href="fonts/TexgyreadventorRegular-1meB.otf" media-type="application/vnd.ms-opentype"/>
+    <item id="id9" href="fonts/ITCAvantGardeStd-Md.ttf" media-type="application/x-font-truetype"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage"/>
+    <itemref idref="id112"/>
+    <itemref idref="id5"/>
+    <itemref idref="id111"/>
+    <itemref idref="id110"/>
+    <itemref idref="id2"/>
+    <itemref idref="id19"/>
+    <itemref idref="id"/>
+    <itemref idref="id18"/>
+    <itemref idref="id17"/>
+    <itemref idref="id16"/>
+    <itemref idref="id15"/>
+    <itemref idref="id14"/>
+    <itemref idref="id13"/>
+    <itemref idref="id12"/>
+    <itemref idref="id11"/>
+    <itemref idref="id1"/>
+  </spine>
+  <guide>
+    <reference href="titlepage.xhtml" title="Cover" type="cover"/>
+  </guide>
+</package>

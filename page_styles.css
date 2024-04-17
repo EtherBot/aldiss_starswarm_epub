@@ -1,0 +1,37 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  src: url(fonts/FuturaDisplayBQ.otf);
+  font-family: "Futura Display BQ";
+  font-weight: 500;
+}
+@font-face {
+  src: url(fonts/Alegreya-SC.ttf);
+  font-family: "Alegreya SC";
+}
+
+@font-face {
+  src: url(fonts/ITC Avant Garde Gothic LT Bold.ttf);
+  font-family: "AvantGarde LT Medium";
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  }
+  
+  @font-face {
+  src: url(fonts/TexgyreadventorRegular-1meB.otf);
+  font-family: "TeXGyreAdventor";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  }
+  
+@font-face {
+  src: url(fonts/ITCAvantGardeStd-Md.ttf);
+  font-family: "ITC Avant Garde Std Md";
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  }
